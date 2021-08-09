@@ -1,4 +1,4 @@
-### Opa 👋
+### 
 -👯 Ciência da Computação - PUC-SP
 
 -💬 Email: cazarinelucca@gmail.com
